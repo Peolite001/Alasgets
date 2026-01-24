@@ -90,7 +90,6 @@ const Watches = () => {
                 className="w-full h-full object-contain"
               />
             </div>
-
             {/* Card Content */}
             <div className="p-5">
               <div className='flex items-center justify-between'>
@@ -106,17 +105,14 @@ const Watches = () => {
               <p className="text-2xl font-bold text-gray-900 mb-4">
                 AU$ 120
               </p>
-
               <div className='flex items-center'>
                 <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />
                 <p>4.5 | 100+ sold</p>
               </div>
-                
                 <div className='flex items-center mb-3 text-yellow-900'>
                  <MdLocalFireDepartment />
                  <p>Top selling in similar deals</p>
                 </div>
-
               {/* Button - Hidden on mobile, visible on hover/focus */}
               <Link href={""}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
@@ -125,6 +121,7 @@ const Watches = () => {
               </Link>
             </div>
           </div>
+
 
            <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
             {/* Image Container */}
@@ -136,7 +133,6 @@ const Watches = () => {
                 className="w-full h-full object-contain"
               />
             </div>
-
             {/* Card Content */}
             <div className="p-5">
               <div className='flex items-center justify-between'>
@@ -152,17 +148,14 @@ const Watches = () => {
               <p className="text-2xl font-bold text-gray-900 mb-4">
                 AU$ 150.o9
               </p>
-
               <div className='flex items-center'>
                 <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />
                 <p>4.0 | 500 sold</p>
               </div>
-                
                 <div className='flex items-center mb-3 text-red-600'>
                  <MdLocalFireDepartment />
                  <p>Best Price in similar deals</p>
                 </div>
-
               {/* Button - Hidden on mobile, visible on hover/focus */}
               <Link href={""}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
@@ -171,6 +164,7 @@ const Watches = () => {
               </Link>
             </div>
           </div>
+
 
           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
             {/* Image Container */}
@@ -182,7 +176,6 @@ const Watches = () => {
                 className="w-full h-full object-contain"
               />
             </div>
-
             {/* Card Content */}
             <div className="p-5">
               <div className='flex items-center justify-between'>
@@ -198,17 +191,14 @@ const Watches = () => {
               <p className="text-2xl font-bold text-gray-900 mb-4">
                 AU$ 94.99
               </p>
-
               <div className='flex items-center'>
                 <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />
                 <p>4.0 | 200 sold</p>
               </div>
-                
                 <div className='flex items-center mb-3 text-red-600'>
                  <MdLocalFireDepartment />
                  <p>Best Price in similar deals</p>
                 </div>
-
               {/* Button - Hidden on mobile, visible on hover/focus */}
               <Link href={""}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
@@ -217,6 +207,7 @@ const Watches = () => {
               </Link>
             </div>
           </div>
+
 
            <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
             {/* Image Container */}
@@ -228,7 +219,6 @@ const Watches = () => {
                 className="w-full h-full object-contain"
               />
             </div>
-
             {/* Card Content */}
             <div className="p-5">
               <div className='flex items-center justify-between'>
@@ -244,17 +234,14 @@ const Watches = () => {
               <p className="text-2xl font-bold text-gray-900 mb-4">
                 AU$ 99.00
               </p>
-
               <div className='flex items-center'>
                 <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />
                 <p>4.0 | 100 sold</p>
               </div>
-                
                 <div className='flex items-center mb-3 text-red-600'>
                  <MdLocalFireDepartment />
                  <p>Best Price in similar deals</p>
                 </div>
-
               {/* Button - Hidden on mobile, visible on hover/focus */}
               <Link href={""}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
@@ -264,6 +251,7 @@ const Watches = () => {
             </div>
           </div>
           
+
           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
             {/* Image Container */}
             <div className="relative aspect-square bg-gray-100">
@@ -274,7 +262,6 @@ const Watches = () => {
                 className="w-full h-full object-contain"
               />
             </div>
-
             {/* Card Content */}
             <div className="p-5">
               <div className='flex items-center justify-between'>
@@ -290,17 +277,14 @@ const Watches = () => {
               <p className="text-2xl font-bold text-gray-900 mb-4">
                 AU$ 168.25
               </p>
-
               <div className='flex items-center'>
                 <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />
                 <p>3.0 | 20 sold</p>
               </div>
-                
                 <div className='flex items-center mb-3 text-red-600'>
                  <MdLocalFireDepartment />
                  <p>Best Price in similar deals</p>
                 </div>
-
               {/* Button - Hidden on mobile, visible on hover/focus */}
               <Link href={""}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
@@ -310,22 +294,21 @@ const Watches = () => {
             </div>
           </div>
 
+
            <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
             {/* Image Container */}
             <div className="relative aspect-square bg-gray-100">
               <div className="absolute inset-0 bg-gray-400/20 rounded-t-xl" />
               <img
-                src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQscv04O8JO_BGNpKEvxW8kpH2ZECBJY7Zy-XL4HWOx3mwViSqqsGgEzbxQN5JIfetm_v0w984k2gmE1JMtsSdnQhymkhkieNmEIBgPC_qAe9vgfaMC-uogpC6JMcu5tehDHg&usqp=CAc"
-                alt="Product"
+                src="https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQFYGX3lrpVwAoVO5Qi7erovN4OARY_1IsT0IZ9D95Q7_NC44EeT9SHJzYzSH2777cOm-Ao134jGTyflEOIsOZYV442MBzGOeztIqpRzvMb&usqp=CAc"
                 className="w-full h-full object-contain"
               />
             </div>
-
             {/* Card Content */}
             <div className="p-5">
               <div className='flex items-center justify-between'>
               <h3 className="text-lg font-semibold text-gray-800 mb-2 line-clamp-2">
-                {'Nexus Pro Smartwatch'}
+                {"2025 new Men's outdoor multifunctional sports smartwatch, fitness tracker, three different watch straps, wireless calling, message notification, high-definition full touch screen, flashlight, pedometer"}
               </h3>
               <Link href={""}>
                <div className='border border-gray-200 hover:bg-black hover:text-white transition-all rounded-full w-13 h-13'>
@@ -336,12 +319,392 @@ const Watches = () => {
               <p className="text-2xl font-bold text-gray-900 mb-4">
                 AU$ 99.00
               </p>
+              <div className='flex items-center'>
+                <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />
+                <p>5.0 | 14 sold</p>
+              </div>
+              <div className='flex items-center mb-3 text-red-600'>
+                 <MdLocalFireDepartment />
+                 <p>Best Price in similar deals</p>
+                </div>
+              {/* Button - Hidden on mobile, visible on hover/focus */}
+              <Link href={""}>
+                 <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
+                   See Preview
+                 </button>
+              </Link>
+            </div>
+          </div>
 
+
+           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
+            {/* Image Container */}
+            <div className="relative aspect-square bg-gray-100">
+              <div className="absolute inset-0 bg-gray-400/20 rounded-t-xl" />
+              <img
+                src="https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSgwpE_UHqeEZbYA_lxT1xdX3FFIm3g59UCPijdjMs8xVr7l4mzRWbk-myjEkmIdr2hfKusZsxXdwIMoXb-7ZHRcPDKqcKgvG3yQUhQvZWF&usqp=CAc"
+                className="w-full h-full object-contain"
+              />
+            </div>
+            {/* Card Content */}
+            <div className="p-5">
+              <div className='flex items-center justify-between'>
+              <h3 className="text-lg font-semibold text-gray-800 mb-2 line-clamp-2">
+                {'Generic - 1.65-inch IP67 waterproof full touch smartwatch with Bluetooth calling'}
+              </h3>
+              <Link href={""}>
+               <div className='border border-gray-200 hover:bg-black hover:text-white transition-all rounded-full w-13 h-13'>
+                <BsCartPlus className='text-4xl mt-2 ml-2' />
+                </div>
+              </Link>
+              </div>
+              <p className="text-2xl font-bold text-gray-900 mb-4">
+                AU$ 7.20
+              </p>
+              <div className='flex items-center mb-3 text-yellow-900'>
+                 <MdLocalFireDepartment />
+                 <p>Top selling in similar deals</p>
+                </div>
+              {/* Button - Hidden on mobile, visible on hover/focus */}
+              <Link href={""}>
+                 <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
+                   See Preview
+                 </button>
+              </Link>
+            </div>
+          </div>
+
+
+           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
+            {/* Image Container */}
+            <div className="relative aspect-square bg-gray-100">
+              <div className="absolute inset-0 bg-gray-400/20 rounded-t-xl" />
+              <img
+                src="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTaDt1z4OSMU9zJi6fRGWIT0Aues_uS85vwVu1a-_6ijZEJQJRAOJdMZ9534JJn8s3uGvkRbzOurZqGuOmGvX9V3M2SG2GjUYFtjN1o8pH4naVuMqtAQT4aKllrsbA0SAX7AhG0Dbv5Kw&usqp=CAc"
+                alt="Product"
+                className="w-full h-full object-contain"
+              />
+            </div>
+            {/* Card Content */}
+            <div className="p-5">
+              <div className='flex items-center justify-between'>
+              <h3 className="text-lg font-semibold text-gray-800 mb-2 line-clamp-2">
+                {'The Samsung Galaxy Watch 8 (2025) Comes in 40/44Mm Sizes And Features Galaxy AI for Fitness Tracking, a Sport Band, Sleep Coaching, And Wireless Connectivity. Its Cushion Design Makes It Both Comfortable And Stylish, Available in Graphite/Silver'}
+              </h3>
+              <Link href={""}>
+               <div className='border border-gray-200 hover:bg-black hover:text-white transition-all rounded-full w-13 h-13'>
+                <BsCartPlus className='text-4xl mt-2 ml-2' />
+                </div>
+              </Link>
+              </div>
+              <p className="text-2xl font-bold text-gray-900 mb-4">
+                AU$ 426.00
+              </p>
+              <div className='flex items-center'>
+                <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />
+                <p>4.3 | 232 sold</p>
+              </div>
+              <div className='flex items-center mb-3 text-red-600'>
+                 <MdLocalFireDepartment />
+                 <p>Best Price in similar deals</p>
+                </div>
+              {/* Button - Hidden on mobile, visible on hover/focus */}
+              <Link href={""}>
+                 <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
+                   See Preview
+                 </button>
+              </Link>
+            </div>
+          </div>
+
+          
+           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
+            {/* Image Container */}
+            <div className="relative aspect-square bg-gray-100">
+              <div className="absolute inset-0 bg-gray-400/20 rounded-t-xl" />
+              <img
+                src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQSaAFesRvm862IHlWzVYbv67BOB05Rw58_NE197cwaUVzD2LN5sCFtQQR_Bx3frd4Nw_G72Trc3k2D9Rl6phXVoNfnfJqgcRreiQ3FQmZzk1K0WaffQaoH4jiKlvi4yMgv4lV3Wg&usqp=CAc"
+                alt="Product"
+                className="w-full h-full object-contain"
+              />
+            </div>
+            {/* Card Content */}
+            <div className="p-5">
+              <div className='flex items-center justify-between'>
+              <h3 className="text-lg font-semibold text-gray-800 mb-2 line-clamp-2">
+                {'S8 Ultra 4g Smartwatch Ultra smart watch with 7 straps, Ocean Sport Bands for The for apple Watch Ultra 2 And Other Models'}
+              </h3>
+              <Link href={""}>
+               <div className='border border-gray-200 hover:bg-black hover:text-white transition-all rounded-full w-13 h-13'>
+                <BsCartPlus className='text-4xl mt-2 ml-2' />
+                </div>
+              </Link>
+              </div>
+              <p className="text-2xl font-bold text-gray-900 mb-4">
+                AU$ 12.30
+              </p>
+              <div className='flex items-center'>
+                <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />
+                <p>4.4 | 402 sold</p>
+              </div>
+              <div className='flex items-center mb-3 text-red-600'>
+                 <MdLocalFireDepartment />
+                 <p>Best Price in similar deals</p>
+                </div>
+              {/* Button - Hidden on mobile, visible on hover/focus */}
+              <Link href={""}>
+                 <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
+                   See Preview
+                 </button>
+              </Link>
+            </div>
+          </div>
+
+
+           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
+            {/* Image Container */}
+            <div className="relative aspect-square bg-gray-100">
+              <div className="absolute inset-0 bg-gray-400/20 rounded-t-xl" />
+              <img
+                src="https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSNfDF7w2mySeK2zCY3HJ6MtY6wI8kXi7CjWIDovJZMq6wgnIBZf3s3_aosfgEBzmB5HBhRUaDR7IsxwAXSZ8e_kRCCGRt-I1sfdJZzy2kwUOGCLBEXmkPU7TAmgBnz&usqp=CAc"
+                alt="Product"
+                className="w-full h-full object-contain"
+              />
+            </div>
+            {/* Card Content */}
+            <div className="p-5">
+              <div className='flex items-center justify-between'>
+              <h3 className="text-lg font-semibold text-gray-800 mb-2 line-clamp-2">
+                {"Sports smartwatch with wireless calling, music management, information push and read, various exercise modes, pedometer, USB rechargeable lithium battery, and high-definition display screen - compatible with iPhone and Android, Men's and Women's"}
+              </h3>
+              <Link href={""}>
+               <div className='border border-gray-200 hover:bg-black hover:text-white transition-all rounded-full w-13 h-13'>
+                <BsCartPlus className='text-4xl mt-2 ml-2' />
+                </div>
+              </Link>
+              </div>
+              <p className="text-2xl font-bold text-gray-900 mb-4">
+                AU$ 11.32
+              </p>
+              <div className='flex items-center'>
+                <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />
+                <p>4.5 | 892 sold</p>
+              </div>
+              <div className='flex items-center mb-3 text-yellow-900'>
+                 <MdLocalFireDepartment />
+                 <p>Top selling in similar deals</p>
+                </div>
+              {/* Button - Hidden on mobile, visible on hover/focus */}
+              <Link href={""}>
+                 <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
+                   See Preview
+                 </button>
+              </Link>
+            </div>
+          </div>
+
+
+           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
+            {/* Image Container */}
+            <div className="relative aspect-square bg-gray-100">
+              <div className="absolute inset-0 bg-gray-400/20 rounded-t-xl" />
+              <img
+                src="https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTaIVlQpLopb3sdHNvBUNz8gU26Nj7CyXHSaZLgu3eIQi3Aom_1MwCfeNPs6FT9FJVxZFRQkUlnbrmlN5r6gGgZLqU2u7LSOOKd6h8GMQgd5Y5RhZGE0CXv&usqp=CAc"
+                alt="Product"
+                className="w-full h-full object-contain"
+              />
+            </div>
+            {/* Card Content */}
+            <div className="p-5">
+              <div className='flex items-center justify-between'>
+              <h3 className="text-lg font-semibold text-gray-800 mb-2 line-clamp-2">
+                {'Smartwatch Apple The 2025 New Model of Sports Fashion Smart Watch Features a Fully Touch-Sensitive High-Definition Display, Supports Wireless Calling (Answering/Making Calls), Message Notifications, Multiple Sports Modes/Pedometer/Ai Voice Control/Camera Control/Mus'}
+              </h3>
+              <Link href={""}>
+               <div className='border border-gray-200 hover:bg-black hover:text-white transition-all rounded-full w-13 h-13'>
+                <BsCartPlus className='text-4xl mt-2 ml-2' />
+                </div>
+              </Link>
+              </div>
+              <p className="text-2xl font-bold text-gray-900 mb-4">
+                AU$ 17.97
+              </p>
+              <div className='flex items-center'>
+                <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />
+                <p>4.9 | 178 sold</p>
+              </div>
+              <div className='flex items-center mb-3 text-yellow-900'>
+                 <MdLocalFireDepartment />
+                 <p>Top selling in similar deals</p>
+                </div>
+              {/* Button - Hidden on mobile, visible on hover/focus */}
+              <Link href={""}>
+                 <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
+                   See Preview
+                 </button>
+              </Link>
+            </div>
+          </div>
+
+
+           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
+            {/* Image Container */}
+            <div className="relative aspect-square bg-gray-100">
+              <div className="absolute inset-0 bg-gray-400/20 rounded-t-xl" />
+              <img
+                src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQkoNO5rDOxFvNDsRc4O4dtOBIjwLoFbSX8LJwBkQp0KmDCUrAjG0uvKNlGg4R2EJVldq4E7sg8bjrWCIkYqx_7r_s_fxLvBVatKvPTLJfiAxi0_JtnRyT6S-Ub1Q&usqp=CAc"
+                alt="Product"
+                className="w-full h-full object-contain"
+              />
+            </div>
+            {/* Card Content */}
+            <div className="p-5">
+              <div className='flex items-center justify-between'>
+              <h3 className="text-lg font-semibold text-gray-800 mb-2 line-clamp-2">
+                {'1.91-inch HD Large-Screen Smart watch by SENOBONO: Packed with Features - Camera, Album, Recording, Dynamic Dials, Wireless Call, Message Notifications, Multiple Sport Modes, Local Music, Alarm Clock Watch'}
+              </h3>
+              <Link href={""}>
+               <div className='border border-gray-200 hover:bg-black hover:text-white transition-all rounded-full w-13 h-13'>
+                <BsCartPlus className='text-4xl mt-2 ml-2' />
+                </div>
+              </Link>
+              </div>
+              <p className="text-2xl font-bold text-gray-900 mb-4">
+                AU$ 41.00
+              </p>
+              <div className='flex items-center'>
+                <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />
+                <p>4.5 | 640 sold</p>
+              </div>
+              <div className='flex items-center mb-3 text-red-600'>
+                 <MdLocalFireDepartment />
+                 <p>Best Price in similar deals</p>
+                </div>
+              {/* Button - Hidden on mobile, visible on hover/focus */}
+              <Link href={""}>
+                 <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
+                   See Preview
+                 </button>
+              </Link>
+            </div>
+          </div>
+
+
+           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
+            {/* Image Container */}
+            <div className="relative aspect-square bg-gray-100">
+              <div className="absolute inset-0 bg-gray-400/20 rounded-t-xl" />
+              <img
+                src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQW46154sCvPEnyKyInyd6myjbG_dWKUg7GgeITEEk2WWwns-fJaEPNpbt17BVcfLW7j6CZstjCgfErBirfekwYIQv4n3ehrogVab-3gqlBm7sXKx9T547D&usqp=CAc"
+                alt="Product"
+                className="w-full h-full object-contain"
+              />
+            </div>
+            {/* Card Content */}
+            <div className="p-5">
+              <div className='flex items-center justify-between'>
+              <h3 className="text-lg font-semibold text-gray-800 mb-2 line-clamp-2">
+                {'2025 new 1000mAh battery smart watch, same for men and women, 1.85-inch HD display, wireless call/voice assistant, weather, High Quality smart watch, more than 100 sports modes, fitness tracker'}
+              </h3>
+              <Link href={""}>
+               <div className='border border-gray-200 hover:bg-black hover:text-white transition-all rounded-full w-13 h-13'>
+                <BsCartPlus className='text-4xl mt-2 ml-2' />
+                </div>
+              </Link>
+              </div>
+              <p className="text-2xl font-bold text-gray-900 mb-4">
+                AU$ 31.96
+              </p>
+              <div className='flex items-center'>
+                <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />
+                <p>4.7 | 1.2k+ sold</p>
+              </div>
+              <div className='flex items-center mb-3 text-yellow-900'>
+                 <MdLocalFireDepartment />
+                 <p>Top selling in similar deals</p>
+                </div>
+              {/* Button - Hidden on mobile, visible on hover/focus */}
+              <Link href={""}>
+                 <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
+                   See Preview
+                 </button>
+              </Link>
+            </div>
+          </div>
+
+
+           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
+            {/* Image Container */}
+            <div className="relative aspect-square bg-gray-100">
+              <div className="absolute inset-0 bg-gray-400/20 rounded-t-xl" />
+              <img
+                src="https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTw-WXPEfWKbLIVZG8rBXjWLSeyCuMKhoU9dskXgA27eUvXT2SojeVV7JieLIR9AYQLTLQrT3zSPleJz-Crq2fq21rCQA8hf-1ayVXHPkyuV_mdwP9nANSjsjXp8bryvWfVOj7gbA&usqp=CAc"
+                alt="Product"
+                className="w-full h-full object-contain"
+              />
+            </div>
+            {/* Card Content */}
+            <div className="p-5">
+              <div className='flex items-center justify-between'>
+              <h3 className="text-lg font-semibold text-gray-800 mb-2 line-clamp-2">
+                {'Redmi watch Smartwatch smartwatch for men, 1.85-inch Smart Fashion Sports Watch | AMOLED Color Screen, Wireless Calling, Weather Forecast, Multiple Sports Modes, Multiple Dial Options, Compatible with iPhone and Android, Non, USB Charging, Silicone Strap'}
+              </h3>
+              <Link href={""}>
+               <div className='border border-gray-200 hover:bg-black hover:text-white transition-all rounded-full w-13 h-13'>
+                <BsCartPlus className='text-4xl mt-2 ml-2' />
+                </div>
+              </Link>
+              </div>
+              <p className="text-2xl font-bold text-gray-900 mb-4">
+                AU$ 45.70
+              </p>
+              <div className='flex items-center'>
+                <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />
+                <p>4.7 | 80 sold</p>
+              </div>
+              <div className='flex items-center mb-3 text-yellow-900'>
+                 <MdLocalFireDepartment />
+                 <p>Top selling in similar deals</p>
+                </div>
+              {/* Button - Hidden on mobile, visible on hover/focus */}
+              <Link href={""}>
+                 <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
+                   See Preview
+                 </button>
+              </Link>
+            </div>
+          </div>
+
+
+           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
+            {/* Image Container */}
+            <div className="relative aspect-square bg-gray-100">
+              <div className="absolute inset-0 bg-gray-400/20 rounded-t-xl" />
+              <img
+                src="https://af.cwa.sellercloud.com/images/products/1203618.jpg"
+                alt="Product"
+                className="w-full h-full object-contain"
+              />
+            </div>
+            {/* Card Content */}
+            <div className="p-5">
+              <div className='flex items-center justify-between'>
+              <h3 className="text-lg font-semibold text-gray-800 mb-2 line-clamp-2">
+                {'Apple Watch Series 10 46mm GPS/LTE Silver Case Denim Band MWX13LW/A M/L'}
+              </h3>
+              <Link href={""}>
+               <div className='border border-gray-200 hover:bg-black hover:text-white transition-all rounded-full w-13 h-13'>
+                <BsCartPlus className='text-4xl mt-2 ml-2' />
+                </div>
+              </Link>
+              </div>
+              <p className="text-2xl font-bold text-gray-900 mb-4">
+                AU$ 351.99
+              </p>
               <div className='flex items-center'>
                 <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />
                 <p>4.0 | 100 sold</p>
               </div>
-
               {/* Button - Hidden on mobile, visible on hover/focus */}
               <Link href={""}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">

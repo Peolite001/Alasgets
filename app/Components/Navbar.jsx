@@ -224,12 +224,18 @@ const Navbar = () => {
 
             <p className="py-3 px-4 text-red-500 font-medium">Super Deals</p>
             <p className="py-3 px-4 hover:bg-gray-100 rounded-lg">AlasDget Businesses</p>
-            <p className="py-3 px-4 hover:bg-gray-100 rounded-lg">Iphones</p>
+            <Link href={"/Iphones"}>
+              <p className="py-3 px-4 hover:bg-gray-100 rounded-lg">Iphones</p>
+            </Link>
             <Link href={"/androids"}>
               <p className="py-3 px-4 hover:bg-gray-100 rounded-lg">Androids</p>
             </Link>
-            <p className="py-3 px-4 hover:bg-gray-100 rounded-lg">Tablets</p>
-            <p className="py-3 px-4 hover:bg-gray-100 rounded-lg">Smart Watches</p>
+             <Link href={"/tablets"}>
+              <p className="py-3 px-4 hover:bg-gray-100 rounded-lg">Tablets</p> 
+             </Link>
+             <Link href={"/watches"}>
+              <p className="py-3 px-4 hover:bg-gray-100 rounded-lg">Smart Watches</p>
+             </Link>
 
           </div>
         </div>
