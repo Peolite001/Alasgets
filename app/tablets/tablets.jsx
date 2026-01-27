@@ -95,7 +95,7 @@ const Tablets = () => {
             <div className="p-5">
               <div className='flex items-center justify-between'>
               <h3 className="text-lg font-semibold text-gray-800 mb-2 line-clamp-2">
-                {'for Samsung Galaxy Tab S10+ Plus/S9+/S9 FE+/S8+/S7+/S7 FE Keyboard Case 12.4“ Ma'}
+                {' Samsung Galaxy Tab S10+ Plus/S9+/S9 FE+/S8+/S7+/S7 FE Keyboard Case 12.4“ Ma'}
               </h3>
               <Link href={""}>
                <div className='border border-gray-200 hover:bg-black hover:text-white transition-all rounded-full w-13 h-13'>
@@ -115,7 +115,7 @@ const Tablets = () => {
                  <p>Best Price in similar deals</p>
                 </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/tablets/tabletdetails/detail1"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -138,7 +138,7 @@ const Tablets = () => {
             <div className="p-5">
               <div className='flex items-center justify-between'>
               <h3 className="text-lg font-semibold text-gray-800 mb-2 line-clamp-2">
-                {'for Samsung Galaxy Tab S10+ / S9+ / S8+ / S7+ Case with Keyboard, 12.4'}
+                {'Samsung Galaxy Tab S10+ / S9+ / S8+ / S7+ Case with Keyboard, 12.4'}
               </h3>
               <Link href={""}>
                <div className='border border-gray-200 hover:bg-black hover:text-white transition-all rounded-full w-13 h-13'>
@@ -158,7 +158,7 @@ const Tablets = () => {
                  <p>Top selling in similar deals</p>
                 </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/tablets/tabletdetails/detail2"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -201,7 +201,7 @@ const Tablets = () => {
                  <p>Top selling in similar deals</p>
                 </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/tablets/tabletdetails/detail3"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -244,7 +244,7 @@ const Tablets = () => {
                  <p>Best Price in similar deals</p>
                 </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/tablets/tabletdetails/detail4"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -287,7 +287,7 @@ const Tablets = () => {
                  <p>Top selling in similar deals</p>
                 </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/tablets/tabletdetails/detail5"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -328,7 +328,7 @@ const Tablets = () => {
               </div>
 
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/tablets/tabletdetails/detail6"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -371,7 +371,7 @@ const Tablets = () => {
                  <p>Best Price in similar deals</p>
                 </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/tablets/tabletdetails/detail7"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -414,7 +414,7 @@ const Tablets = () => {
                  <p>Top selling in similar deals</p>
                 </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/tablets/tabletdetails/detail8"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -457,7 +457,7 @@ const Tablets = () => {
                  <p>Best Price in similar deals</p>
                 </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"tablets/tabletdetails/detail9"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -500,7 +500,7 @@ const Tablets = () => {
                  <p>Best Price in similar deals</p>
                 </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/tablets/tabletdetails/detail10"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -543,7 +543,7 @@ const Tablets = () => {
                  <p>Top selling in similar deals</p>
                 </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/tablet/tabletdetails/detail11"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -575,14 +575,14 @@ const Tablets = () => {
               </Link>
               </div>
               <p className="text-2xl font-bold text-gray-900 mb-4">
-                AU$ 150 
+                AU$ 150.00
               </p>
               <div className='flex items-center'>
                 <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />
                 <p>4.8 | 65 sold</p>
               </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/tablets/tabletdetails/detail12"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -614,7 +614,7 @@ const Tablets = () => {
               </Link>
               </div>
               <p className="text-2xl font-bold text-gray-900 mb-4">
-                AU$ 133
+                AU$ 133.00
               </p>
 
               <div className='flex items-center'>
@@ -626,7 +626,7 @@ const Tablets = () => {
                  <p>Best Price in similar deals</p>
                 </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/tablets/tabletdetails/detail13"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -669,7 +669,7 @@ const Tablets = () => {
                  <p>Top selling in similar deals</p>
                 </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/tablets/tabletdetails/detail14"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -708,7 +708,7 @@ const Tablets = () => {
                 <p>4.7 | 494 sold</p>
               </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/tablets/tabletdetails/detail15"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -751,7 +751,7 @@ const Tablets = () => {
                  <p>Top selling in similar deals</p>
                 </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"tablets/tabletdetails/detail16"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -794,7 +794,7 @@ const Tablets = () => {
                  <p>Best Price in similar deals</p>
                 </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/tablets/tabletdetails/detail17"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -837,7 +837,7 @@ const Tablets = () => {
                  <p>Top selling in similar deals</p>
                 </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/tablets/tabletdetails/detail18"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -880,7 +880,7 @@ const Tablets = () => {
                  <p>Top selling in similar deals</p>
                 </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/tables/tabletdetails/detail19"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -919,7 +919,7 @@ const Tablets = () => {
                 <p>3.0 | 10 sold</p>
               </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/tablets/tabletdetails/detail20"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -962,7 +962,7 @@ const Tablets = () => {
                  <p>Best Price in similar deals</p>
                 </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/tablets/tabletdetails/detail21"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -1005,7 +1005,7 @@ const Tablets = () => {
                  <p>Best Price in similar deals</p>
                 </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/tablets/tabletdetails/detail22"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>

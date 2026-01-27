@@ -114,7 +114,7 @@ const Watches = () => {
                  <p>Top selling in similar deals</p>
                 </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/watches/watchdetails/watchdetails1"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -146,7 +146,7 @@ const Watches = () => {
               </Link>
               </div>
               <p className="text-2xl font-bold text-gray-900 mb-4">
-                AU$ 150.o9
+                AU$ 150.09
               </p>
               <div className='flex items-center'>
                 <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />
@@ -157,7 +157,7 @@ const Watches = () => {
                  <p>Best Price in similar deals</p>
                 </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/watches/watchdetails/watchdetails2"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -200,7 +200,7 @@ const Watches = () => {
                  <p>Best Price in similar deals</p>
                 </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/watches/watchdetails/watchdetails3"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -243,7 +243,7 @@ const Watches = () => {
                  <p>Best Price in similar deals</p>
                 </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/watches/watchdetails/watchdetails4"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -286,7 +286,7 @@ const Watches = () => {
                  <p>Best Price in similar deals</p>
                 </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/watches/watchdetails/watchdetails5"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -328,7 +328,7 @@ const Watches = () => {
                  <p>Best Price in similar deals</p>
                 </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/watches/watchdetails/watchdetails6"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -366,7 +366,7 @@ const Watches = () => {
                  <p>Top selling in similar deals</p>
                 </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/watches/watchdetails/watchdetails7"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -409,7 +409,7 @@ const Watches = () => {
                  <p>Best Price in similar deals</p>
                 </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/watches/watchdetails/watchdetails8"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -452,7 +452,7 @@ const Watches = () => {
                  <p>Best Price in similar deals</p>
                 </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/watches/watchdetails/watchdetails9"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -495,7 +495,7 @@ const Watches = () => {
                  <p>Top selling in similar deals</p>
                 </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/watches/watchdetails/watchdetails10"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -538,7 +538,7 @@ const Watches = () => {
                  <p>Top selling in similar deals</p>
                 </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/watches/watchdetails/watchdetails11"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -581,7 +581,7 @@ const Watches = () => {
                  <p>Best Price in similar deals</p>
                 </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/watches/watchdetails/watchdetails12"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -624,7 +624,7 @@ const Watches = () => {
                  <p>Top selling in similar deals</p>
                 </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/watches/watchdetails/watchdetails13"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -667,7 +667,7 @@ const Watches = () => {
                  <p>Top selling in similar deals</p>
                 </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/watches/watchdetails/watchdetails14"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -706,7 +706,7 @@ const Watches = () => {
                 <p>4.0 | 100 sold</p>
               </div>
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/watches/watchdetails/watchdetails15"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>

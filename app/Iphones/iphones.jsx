@@ -120,13 +120,15 @@ const Iphones = () => {
                 </div>
 
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/Iphones/Iphonedetails/details1"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
               </Link>
             </div>
           </div>
+
+
           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
             {/* Image Container */}
             <div className="relative aspect-square bg-gray-100">
@@ -165,13 +167,15 @@ const Iphones = () => {
                 </div>
 
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={"/"}>
+              <Link href={"/Iphones/Iphonedetails/details2"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
               </Link>
             </div>
           </div>
+
+
           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
             {/* Image Container */}
             <div className="relative aspect-square bg-gray-100">
@@ -205,13 +209,15 @@ const Iphones = () => {
               </div>
 
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={"/details"}>
+              <Link href={"/Iphones/Iphonedetails/details3"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
               </Link>
             </div>
           </div>
+
+
           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
             {/* Image Container */}
             <div className="relative aspect-square bg-gray-100">
@@ -250,13 +256,15 @@ const Iphones = () => {
                 </div>
 
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/Iphones/Iphonedetails/details4"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
               </Link>
             </div>
           </div>
+
+
           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
             {/* Image Container */}
             <div className="relative aspect-square bg-gray-100">
@@ -295,13 +303,15 @@ const Iphones = () => {
                 </div>
 
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/Iphones/Iphonedetails/details5"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
               </Link>
             </div>
           </div>
+
+
           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
             {/* Image Container */}
             <div className="relative aspect-square bg-gray-100">
@@ -340,13 +350,15 @@ const Iphones = () => {
                 </div>
 
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/Iphones/Iphonedetails/details6"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
               </Link>
             </div>
           </div>
+
+
           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
             {/* Image Container */}
             <div className="relative aspect-square bg-gray-100">
@@ -385,13 +397,15 @@ const Iphones = () => {
                 </div>
 
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/Iphones/Iphonedetails/details7"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
               </Link>
             </div>
           </div>
+
+
           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
             {/* Image Container */}
             <div className="relative aspect-square bg-gray-100">
@@ -430,13 +444,15 @@ const Iphones = () => {
                 </div>
 
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/Iphone/Iphonedetails/details8"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
               </Link>
             </div>
           </div>
+
+
           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
             {/* Image Container */}
             <div className="relative aspect-square bg-gray-100">
@@ -471,13 +487,15 @@ const Iphones = () => {
                 
 
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/Iphones/Iphonedetails/details9"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
               </Link>
             </div>
           </div>
+
+
           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
             {/* Image Container */}
             <div className="relative aspect-square bg-gray-100">
@@ -516,13 +534,15 @@ const Iphones = () => {
                 </div>
 
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/Iphones/Iphonedetails/details10"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
               </Link>
             </div>
           </div>
+
+
           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
             {/* Image Container */}
             <div className="relative aspect-square bg-gray-100">
@@ -556,13 +576,15 @@ const Iphones = () => {
               </div>
 
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/Iphones/Iphonedetails/details11"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
               </Link>
             </div>
           </div>
+
+
           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
             {/* Image Container */}
             <div className="relative aspect-square bg-gray-100">
@@ -601,13 +623,15 @@ const Iphones = () => {
                 </div>
 
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/Iphones/Iphonedetails/details12"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
               </Link>
             </div>
           </div>
+
+
           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
             {/* Image Container */}
             <div className="relative aspect-square bg-gray-100">
@@ -646,13 +670,15 @@ const Iphones = () => {
                 </div>
 
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/Iphones/Iphonedetails/details13"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
               </Link>
             </div>
           </div>
+
+
           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
             {/* Image Container */}
             <div className="relative aspect-square bg-gray-100">
@@ -687,13 +713,15 @@ const Iphones = () => {
                 
 
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/Iphones/Iphonedetails/details14"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
               </Link>
             </div>
           </div>
+
+
           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
             {/* Image Container */}
             <div className="relative aspect-square bg-gray-100">
@@ -732,7 +760,7 @@ const Iphones = () => {
                 </div>
 
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/Iphones/Iphonedetails/details15"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
