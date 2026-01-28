@@ -57,7 +57,7 @@ const ProductCardSkeleton = () => {
 };
 
 
-const Andriod = () => {
+const Android = () => {
         const [loading, setLoading] = useState(true);
 
         useEffect(() => {
@@ -94,7 +94,6 @@ const Andriod = () => {
                 className="w-full h-full object-contain"
               />
             </div>
-
             {/* Card Content */}
             <div className="p-5">
               <div className='flex items-center justify-between'>
@@ -108,22 +107,21 @@ const Andriod = () => {
               </Link>
               </div>
               <p className="text-2xl font-bold text-gray-900 mb-4">
-                AU$ 1,700
+                AU$ 1,700.00
               </p>
-
               <div className='flex items-center'>
                 <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />
                 <p>4.5 | 100+ sold</p>
               </div>
-
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={"/details"}>
+              <Link href={"/androids/androiddetails/details1"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
               </Link>
             </div>
           </div>
+
 
           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
             {/* Image Container */}
@@ -149,21 +147,18 @@ const Andriod = () => {
               </Link>
               </div>
               <p className="text-2xl font-bold text-gray-900 mb-4">
-                AU$ 400
+                AU$ 400.00
               </p>
-
               <div className='flex items-center'>
                 <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />
                 <p>4.0 | 4000 sold</p>
-              </div>
-                
+              </div>  
                 <div className='flex items-center mb-3 text-red-600'>
                  <MdLocalFireDepartment />
                  <p>Best Price in similar deals</p>
                 </div>
-
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/androids/androiddetails/details2"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
@@ -182,13 +177,11 @@ const Andriod = () => {
                 className="w-full h-full object-contain"
               />
             </div>
-
             {/* Card Content */}
             <div className="p-5">
               <div className='flex items-center justify-between'>
               <h3 className="text-lg font-semibold text-gray-800 mb-2 line-clamp-2">
                 {'Carmon 40 Pro 512gb, 5g Mobile Dual Card Dual Standby 4G Unlocked Version High-Quality Smartphone | Android 10 System, 8GB RAM, 256GB Storage, 6.56-inch Touch Screen, 8MP+16MP Camera, 3000mAh Batter'}
-
               </h3>
               <Link href={""}>
                <div className='border border-gray-200 hover:bg-black hover:text-white transition-all rounded-full w-13 h-13'>
@@ -199,25 +192,23 @@ const Andriod = () => {
               <p className="text-2xl font-bold text-gray-900 mb-4">
                 AU$ 96.38
               </p>
-
               <div className='flex items-center'>
                 <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />
                 <p>3.0 | 100 sold</p>
-              </div>
-                
+              </div> 
                 <div className='flex items-center mb-3 text-red-600'>
                  <MdLocalFireDepartment />
                  <p>Best Price in similar deals</p>
                 </div>
-
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/androids/androiddetails/details3"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
               </Link>
             </div>
           </div>
+
 
            <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
             {/* Image Container */}
@@ -229,7 +220,6 @@ const Andriod = () => {
                 className="w-full h-full object-contain"
               />
             </div>
-
             {/* Card Content */}
             <div className="p-5">
               <div className='flex items-center justify-between'>
@@ -245,21 +235,19 @@ const Andriod = () => {
               <p className="text-2xl font-bold text-gray-900 mb-4">
                 AU$ 23.86
               </p>
-
               <div className='flex items-center'>
                 <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />
                 <p>2.0 | 20 sold</p>
               </div>
-                
-
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/androids/androiddetails/details4"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
               </Link>
             </div>
           </div>
+
 
           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
             {/* Image Container */}
@@ -271,7 +259,6 @@ const Andriod = () => {
                 className="w-full h-full object-contain"
               />
             </div>
-
             {/* Card Content */}
             <div className="p-5">
               <div className='flex items-center justify-between'>
@@ -285,27 +272,25 @@ const Andriod = () => {
               </Link>
               </div>
               <p className="text-2xl font-bold text-gray-900 mb-4">
-                AU$ 2229.99
+                AU$ 229.99
               </p>
-
               <div className='flex items-center'>
                 <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />
                 <p>4.5 | 100 sold</p>
-              </div>
-                
+              </div>    
                 <div className='flex items-center mb-3 text-red-600'>
                  <MdLocalFireDepartment />
                  <p>Best Price in similar deals</p>
                 </div>
-
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/androids/androiddetails/details5"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
               </Link>
             </div>
           </div>
+
 
           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
             {/* Image Container */}
@@ -317,7 +302,6 @@ const Andriod = () => {
                 className="w-full h-full object-contain"
               />
             </div>
-
             {/* Card Content */}
             <div className="p-5">
               <div className='flex items-center justify-between'>
@@ -333,25 +317,24 @@ const Andriod = () => {
               <p className="text-2xl font-bold text-gray-900 mb-4">
                 AU$ 139.99
               </p>
-
               <div className='flex items-center'>
                 <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />
                 <p>4.1 | 90 sold</p>
               </div>
-                
                 <div className='flex items-center mb-3 text-red-600'>
                  <MdLocalFireDepartment />
                  <p>Best Price in similar deals</p>
                 </div>
-
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/androids/androiddetails/details6"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
               </Link>
             </div>
           </div>
+
+
           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
             {/* Image Container */}
             <div className="relative aspect-square bg-gray-100">
@@ -362,7 +345,6 @@ const Andriod = () => {
                 className="w-full h-full object-contain"
               />
             </div>
-
             {/* Card Content */}
             <div className="p-5">
               <div className='flex items-center justify-between'>
@@ -376,27 +358,25 @@ const Andriod = () => {
               </Link>
               </div>
               <p className="text-2xl font-bold text-gray-900 mb-4">
-                AU$ 400
+                AU$ 400.00
               </p>
-
               <div className='flex items-center'>
                 <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />
                 <p>4.0 | 4000 sold</p>
-              </div>
-                
+              </div> 
                 <div className='flex items-center mb-3 text-red-600'>
                  <MdLocalFireDepartment />
                  <p>Best Price in similar deals</p>
                 </div>
-
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/androids/androiddetails/details7"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
               </Link>
             </div>
           </div>
+
 
           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
             {/* Image Container */}
@@ -408,7 +388,6 @@ const Andriod = () => {
                 className="w-full h-full object-contain"
               />
             </div>
-
             {/* Card Content */}
             <div className="p-5">
               <div className='flex items-center justify-between'>
@@ -424,25 +403,23 @@ const Andriod = () => {
               <p className="text-2xl font-bold text-gray-900 mb-4">
                 AU$ 374.95
               </p>
-
               <div className='flex items-center'>
                 <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />
                 <p>5.0 | 50 sold</p>
-              </div>
-                
+              </div>  
                 <div className='flex items-center mb-3 text-yellow-900'>
                  <MdLocalFireDepartment />
                  <p>Top selling in similar deals</p>
                 </div>
-
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/androids/androiddetails/details8"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
               </Link>
             </div>
           </div>
+
 
            <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
             {/* Image Container */}
@@ -454,7 +431,6 @@ const Andriod = () => {
                 className="w-full h-full object-contain"
               />
             </div>
-
             {/* Card Content */}
             <div className="p-5">
               <div className='flex items-center justify-between'>
@@ -470,25 +446,24 @@ const Andriod = () => {
               <p className="text-2xl font-bold text-gray-900 mb-4">
                 AU$ 131.72
               </p>
-
               <div className='flex items-center'>
                 <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />
                 <p>4.0 | 4000 sold</p>
-              </div>
-                
+              </div>  
                 <div className='flex items-center mb-3 text-red-600'>
                  <MdLocalFireDepartment />
                  <p>Best Price in similar deals</p>
                 </div>
-
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/androids/androiddetails/details9"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
               </Link>
             </div>
           </div>
+
+
           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
             {/* Image Container */}
             <div className="relative aspect-square bg-gray-100">
@@ -499,7 +474,6 @@ const Andriod = () => {
                 className="w-full h-full object-contain"
               />
             </div>
-
             {/* Card Content */}
             <div className="p-5">
               <div className='flex items-center justify-between'>
@@ -515,25 +489,24 @@ const Andriod = () => {
               <p className="text-2xl font-bold text-gray-900 mb-4">
                 AU$ 140.27
               </p>
-
               <div className='flex items-center'>
                 <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />
                 <p>4.0 | 4000 sold</p>
-              </div>
-                
+              </div>   
                 <div className='flex items-center mb-3 text-red-600'>
                  <MdLocalFireDepartment />
                  <p>Best Price in similar deals</p>
                 </div>
-
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/androids/androiddetails/details10"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
               </Link>
             </div>
           </div>
+
+
           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
             {/* Image Container */}
             <div className="relative aspect-square bg-gray-100">
@@ -544,7 +517,6 @@ const Andriod = () => {
                 className="w-full h-full object-contain"
               />
             </div>
-
             {/* Card Content */}
             <div className="p-5">
               <div className='flex items-center justify-between'>
@@ -560,25 +532,24 @@ const Andriod = () => {
               <p className="text-2xl font-bold text-gray-900 mb-4">
                 AU$ 102.78
               </p>
-
               <div className='flex items-center'>
                 <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />
                 <p>4.0 | 4000 sold</p>
-              </div>
-                
+              </div>    
                 <div className='flex items-center mb-3 text-red-600'>
                  <MdLocalFireDepartment />
                  <p>Best Price in similar deals</p>
                 </div>
-
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/androids/androiddetails/details11"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
               </Link>
             </div>
           </div>
+
+
           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
             {/* Image Container */}
             <div className="relative aspect-square bg-gray-100">
@@ -589,7 +560,6 @@ const Andriod = () => {
                 className="w-full h-full object-contain"
               />
             </div>
-
             {/* Card Content */}
             <div className="p-5">
               <div className='flex items-center justify-between'>
@@ -605,25 +575,24 @@ const Andriod = () => {
               <p className="text-2xl font-bold text-gray-900 mb-4">
                 AU$ $109.84
               </p>
-
               <div className='flex items-center'>
                 <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />
                 <p>4.0 | 4000 sold</p>
-              </div>
-                
+              </div> 
                 <div className='flex items-center mb-3 text-red-600'>
                  <MdLocalFireDepartment />
                  <p>Best Price in similar deals</p>
                 </div>
-
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/androids/androiddetails/details12"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
               </Link>
             </div>
           </div>
+
+
           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
             {/* Image Container */}
             <div className="relative aspect-square bg-gray-100">
@@ -634,7 +603,6 @@ const Andriod = () => {
                 className="w-full h-full object-contain"
               />
             </div>
-
             {/* Card Content */}
             <div className="p-5">
               <div className='flex items-center justify-between'>
@@ -650,25 +618,24 @@ const Andriod = () => {
               <p className="text-2xl font-bold text-gray-900 mb-4">
                 AU$ 106.40
               </p>
-
               <div className='flex items-center'>
                 <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />
                 <p>4.0 | 4000 sold</p>
               </div>
-                
                 <div className='flex items-center mb-3 text-red-600'>
                  <MdLocalFireDepartment />
                  <p>Best Price in similar deals</p>
                 </div>
-
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/androids/androiddetails/details13"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
               </Link>
             </div>
           </div>
+
+
           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
             {/* Image Container */}
             <div className="relative aspect-square bg-gray-100">
@@ -679,7 +646,6 @@ const Andriod = () => {
                 className="w-full h-full object-contain"
               />
             </div>
-
             {/* Card Content */}
             <div className="p-5">
               <div className='flex items-center justify-between'>
@@ -695,25 +661,23 @@ const Andriod = () => {
               <p className="text-2xl font-bold text-gray-900 mb-4">
                 AU$ 55.76.
               </p>
-
               <div className='flex items-center'>
                 <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />
                 <p>4.8 | 1000 sold</p>
-              </div>
-                
+              </div>    
                 <div className='flex items-center mb-3 text-yellow-900'>
                  <MdLocalFireDepartment />
                  <p>Top selling in similar deals</p>
                 </div>
-
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/androids/androiddetails/details14"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
               </Link>
             </div>
           </div>
+
 
           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
             {/* Image Container */}
@@ -725,7 +689,6 @@ const Andriod = () => {
                 className="w-full h-full object-contain"
               />
             </div>
-
             {/* Card Content */}
             <div className="p-5">
               <div className='flex items-center justify-between'>
@@ -741,25 +704,24 @@ const Andriod = () => {
               <p className="text-2xl font-bold text-gray-900 mb-4">
                 AU$ 63.95
               </p>
-
               <div className='flex items-center'>
                 <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />
                 <p>4.1 | 200 sold</p>
-              </div>
-                
+              </div>  
                 <div className='flex items-center mb-3 text-yellow-900'>
                  <MdLocalFireDepartment />
                  <p>Top selling in similar deals</p>
                 </div>
-
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/androids/androiddetails/details15"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
               </Link>
             </div>
           </div>
+
+
           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
             {/* Image Container */}
             <div className="relative aspect-square bg-gray-100">
@@ -770,7 +732,6 @@ const Andriod = () => {
                 className="w-full h-full object-contain"
               />
             </div>
-
             {/* Card Content */}
             <div className="p-5">
               <div className='flex items-center justify-between'>
@@ -786,25 +747,24 @@ const Andriod = () => {
               <p className="text-2xl font-bold text-gray-900 mb-4">
                 AU$ 136.90
               </p>
-
               <div className='flex items-center'>
                 <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />
                 <p>5.0 | 1000 sold</p>
-              </div>
-                
+              </div>  
                 <div className='flex items-center mb-3 text-red-600'>
                  <MdLocalFireDepartment />
                  <p>Best Price in similar deals</p>
                 </div>
-
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/androids/androiddetails/details16"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
               </Link>
             </div>
           </div>
+
+
           <div className="group relative bg-white rounded-xl hover:shadow-xl lg:hover:scale-110 transition-all duration-300 overflow-hidden">
             {/* Image Container */}
             <div className="relative aspect-square bg-gray-100">
@@ -815,7 +775,6 @@ const Andriod = () => {
                 className="w-full h-full object-contain"
               />
             </div>
-
             {/* Card Content */}
             <div className="p-5">
               <div className='flex items-center justify-between'>
@@ -829,27 +788,26 @@ const Andriod = () => {
               </Link>
               </div>
               <p className="text-2xl font-bold text-gray-900 mb-4">
-                AU$ 128.6
+                AU$ 128.60
               </p>
-
               <div className='flex items-center'>
                 <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />
                 <p>3.8 | 90 sold</p>
-              </div>
-                
+              </div>    
                 <div className='flex items-center mb-3 text-red-600'>
                  <MdLocalFireDepartment />
                  <p>Best Price in similar deals</p>
                 </div>
-
               {/* Button - Hidden on mobile, visible on hover/focus */}
-              <Link href={""}>
+              <Link href={"/androids/androiddetails/details17"}>
                  <button className="w-full bg-black text-white py-3 rounded-lg font-medium opacity-0 group-hover:opacity-100 focus:opacity-100 transition-opacity duration-300 hover:bg-gray-800">
                    See Preview
                  </button>
               </Link>
             </div>
           </div>
+
+
           </>
           )}
         </div>
@@ -858,4 +816,4 @@ const Andriod = () => {
   )
 }
 
-export default Andriod
+export default Android

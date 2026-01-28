@@ -1,18 +1,20 @@
+import React from "react";
 import { FcGoogle } from "react-icons/fc";
 import { FaApple, FaGithub } from "react-icons/fa";
 import Link from 'next/link';
 import { auth, signIn } from "@/auth";
 import { redirect } from "next/navigation";
 
-
 const Page = async () => {
-  const session = await auth()
+  const session = await auth();
+  console.log(session);
+  
   if (session) {
-    redirect("/Iphones")
+    redirect("/profile/create");
   }
 
   return (
-    <main className="min-h-dvh bg-linear-to-br from-sky-50 to-blue-50 flex items-center justify-center">
+    <main className="min-h-dvh bg-gradient-to-br from-sky-50 to-blue-50 flex items-center justify-center p-4">
       <div className="w-full max-w-md bg-white rounded-2xl shadow-xl border border-sky-200/70 p-6 md:p-10 space-y-8">
         
         <div className="text-center space-y-3">
@@ -24,9 +26,9 @@ const Page = async () => {
 
         <div className="space-y-4 pt-4">
           <form
-            action={async () => {
-              "use server"
-              await signIn("google")
+            action={async (formData) => {
+              "use server";
+              await signIn("google");
             }}
           >
             <button className="w-full flex items-center justify-center gap-3 py-3.5 px-4 border border-gray-300 
@@ -39,8 +41,8 @@ const Page = async () => {
 
           <form
             action={async () => {
-              "use server"
-              await signIn("github")
+              "use server";
+              await signIn("github");
             }}
           >
             <button className="w-full flex items-center justify-center gap-3 py-3.5 px-4 border border-gray-300 
@@ -92,7 +94,7 @@ const Page = async () => {
         </div>
       </div>
     </main>
-  )
-}
+  );
+};
 
-export default Page
+export default Page;

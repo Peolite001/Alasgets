@@ -11,8 +11,7 @@ import Drawer from '@mui/material/Drawer';
 import Link from 'next/link';
 import Image from 'next/image';
 import { usePathname } from 'next/navigation';
-import { useSession } from "next-auth/react"
-import { signOut } from "next-auth/react";
+import { signOut, useSession } from "next-auth/react";
 
 
 

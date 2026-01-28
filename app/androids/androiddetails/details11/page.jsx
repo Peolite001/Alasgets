@@ -1,10 +1,12 @@
 'use server'
 import React from 'react'
-import Android from './android'
+import Preview from './preview'
+import { redirect } from 'next/navigation'
+
 const page = async () => {
   return (
     <main>
-      <Android/>
+      <Preview/>
     </main>
   )
 }
